@@ -421,3 +421,6 @@ models/
 
 # files
 files/
+
+# vectordb
+volumes/
